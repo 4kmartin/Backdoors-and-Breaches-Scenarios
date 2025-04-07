@@ -26,7 +26,7 @@ it uses these commands to assemble and run the actual malware.
 The malware dumps a list of SPNs on the network and requests tickets for all of the domain users with associated SPNs. 
 It attempts to crack these Service Tickets until it finds the password for `oracle_svc` which is a member of `Domain Admins`
 
-![[boom-roasted-the-office.gif]]
+![boom-roasted-the-office.gif](https://github.com/4kmartin/Backdoors-and-Breaches-Scenarios/blob/main/_assets/boom-roasted-the-office.gif)
 
 ## c2 and exfil
 
